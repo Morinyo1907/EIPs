@@ -1,4 +1,4 @@
-name: Continuous Integration
+monename: Continuous Integration
 
 on:
   pull_request:
