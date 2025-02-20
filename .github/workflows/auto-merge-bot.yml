@@ -1,4 +1,4 @@
-on: [pull_request_target]
+on: [![Auto-Merge Bot](https://github.com/transmissions11/EIPs/actions/workflows/auto-merge-bot.yml/badge.svg)](https://github.com/transmissions11/EIPs/actions/workflows/auto-merge-bot.yml)Bu içeriği `README.md` dosyanıza yapıştırabilir ve yeniden deneyebilirsiniz.pull_request_target]
 name: Auto-Merge Bot
 jobs:
   auto_merge_bot:
